@@ -75,4 +75,4 @@ This Power BI dashboard provides an in-depth analysis of mobile sales, including
 🔹 **Dashboard 3**
 ![WhatsApp Image 2025-09-02 at 00 54 49_484c21e4](https://github.com/user-attachments/assets/4bec6de6-1980-477a-af23-1b9bbf5510e2)
 ---
-#### Project Link:- https://github.com/RCS007/Hospital-Emergency-Room-Analysis-Excel-Dshboard/tree/main
+#### Project Link:- https://github.com/RCS007/Mobile-Sales-Analysis-PowerBI-Dashboard/tree/main
